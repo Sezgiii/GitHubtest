@@ -1,0 +1,5 @@
+# GitHubtest
+örnek oluşturulacak.
+
+
+
